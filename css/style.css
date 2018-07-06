@@ -1,0 +1,62 @@
+body{
+    background: url(../images/Back.png) no-repeat center center fixed;
+    background-size: cover;
+}
+.fontweb{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    
+}
+.container1{
+    width:500px;
+    height:500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Song Myung', serif;
+    color:white;
+    margin-top: 10px;
+    padding-top: 10px;
+    font-family: 'Indie Flower', cursive;
+}
+.ali{
+    text-align: center;
+    font-family: 'Song Myung', serif;
+    color:white;
+    margin-top: 10px;
+    padding-top: 10px;
+    font-family: 'Indie Flower', cursive;
+}
+.logform,  h1{
+    text-align: center;
+}
+.modal-body h1{
+    font-size: 30px;
+    font-family: 'Merriweather', serif;   
+}
+.modal-body {
+    
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+    text-align: center;
+}
+label{
+    text-align: left;
+    font-size: 20px;
+}
+.card-img-top:hover{
+    transform: scale(1.2);
+    transition-duration: 1s;
+    
+}
+.display-3:hover{
+    transform: scale(1.2);
+    transition-duration: 1s;
+}
+.disp:hover{
+    transform: scale(1.2);
+    transition-duration: 1s;
+}
+
+
